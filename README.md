@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi there, I'm Anas !<br><br>🎓 Computer Science Student | 💻 Full Stack Developer | 🤖 AI Enthusiast<br><br>I'm passionate about building smart, user-focused applications using modern web technologies. Currently diving deep into full stack development and experimenting with AI-powered projects like [persona.ai](https://persona-ai-xi.vercel.app/).
+## 👋 Hi there, I'm Anas !<br><br>🎓 Computer Science Student | 💻 Full Stack Developer |<br><br>I'm passionate about building smart, user-focused applications using modern web technologies. Currently diving deep into full stack development and experimenting with AI-powered projects like [persona.ai](https://persona-ai-xi.vercel.app/).
 
 
 ## 🌐 Socials:
